@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+streamlit
+python-dotenv
+groq
+langchain
+tensorflow
